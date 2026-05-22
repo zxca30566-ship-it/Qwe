@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- White leaf shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,22
+            C54,22 32,38 32,56
+            C32,72 42,82 54,84
+            C66,82 76,72 76,56
+            C76,38 54,22 54,22Z" />
+    <path
+        android:fillColor="#B8E6B0"
+        android:pathData="M54,22
+            C54,22 54,52 54,84
+            C66,82 76,72 76,56
+            C76,38 54,22 54,22Z" />
+    <!-- Center vein -->
+    <path
+        android:fillColor="#2D5E28"
+        android:strokeColor="#2D5E28"
+        android:strokeWidth="1.5"
+        android:pathData="M54,30 L54,86" />
+    <!-- Left veins -->
+    <path
+        android:strokeColor="#2D5E28"
+        android:strokeWidth="1"
+        android:pathData="M54,45 L42,55" />
+    <path
+        android:strokeColor="#2D5E28"
+        android:strokeWidth="1"
+        android:pathData="M54,58 L40,65" />
+    <!-- Right veins -->
+    <path
+        android:strokeColor="#2D5E28"
+        android:strokeWidth="1"
+        android:pathData="M54,45 L66,55" />
+    <path
+        android:strokeColor="#2D5E28"
+        android:strokeWidth="1"
+        android:pathData="M54,58 L68,65" />
+    <!-- Stem -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="2"
+        android:pathData="M54,84 L54,94" />
+</vector>

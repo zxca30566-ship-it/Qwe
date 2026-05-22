@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "137533517973",
+    "project_id": "abo-hani",
+    "storage_bucket": "abo-hani.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137533517973:android:55ccb8afea419752cfeb9c",
+        "android_client_info": {
+          "package_name": "com.abuhani.agri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD64tJwTHK3QcfseL6siqX86UJyjb1Qee0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
